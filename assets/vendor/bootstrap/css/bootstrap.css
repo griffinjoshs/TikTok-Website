@@ -4383,6 +4383,11 @@ input[type="button"].btn-block {
   list-style: none;
 }
 
+.nav-link:hover {
+  background-color: white;
+  opacity: 30%;
+}
+
 .navbar-nav .nav-link {
   padding-right: 0;
   padding-left: 0;
